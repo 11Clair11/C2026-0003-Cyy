@@ -1,0 +1,13 @@
+# ☕ 02_Phase2_Cup 防烫溢水杯设计
+
+本文件夹存放课题02「适老化智能辅具——防烫溢水杯」的调研数据、测试照片与迭代记录。
+
+## 📁目录结构
+
+* 🥤 V1_original.jpg: V1 裸杯原始状态
+* 🙈 V1_testing_blindfold.jpg: 第一组测试（蒙眼+单手）现场
+* 🎧 V1_testing_earplug.jpg: 第二组测试（降噪耳塞）现场
+* 💧 V1_overflow.jpg: 溢出误操作记录
+* 🔥 V1_burn.jpg: 烫伤风险记录（V1-3）
+* 📷 本人出镜.jpg: 实地采集证明
+* 📊 Blind_Test_Data.md: 盲操测试完整数据报告
